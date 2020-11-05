@@ -1,0 +1,54 @@
+@charset "UTF-8"; 
+
+/*  Jeff Bohn ,  11/5/2020  */
+
+body{
+    background-image: linear-gradient(to right, #3f8b98 , #a64d6d);
+}
+
+table, th, td {
+    border: 2px #6b6b83 solid;
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .t1{
+    background-color: #a64d6d;
+  }
+  table{
+    width: 70%;
+    margin-top: 50px;
+    border: 7px solid #3f8b98;
+    padding: 2;
+
+  }
+  caption{
+      color: white;
+      font-size: 26px;
+  }
+  thead{
+    background-color: white;
+    color: black;
+  }
+  tfoot{
+     background-color: white;
+    color: black;
+  }
+  .red{
+    background-color: #d3e2f7; 
+ }
+ .blue{
+     background-color: #d3e2f7;
+ }
+ .green{
+     background-color: #d3e2f7;
+ }
+ .yellow{
+     background-color:#d3e2f7;
+ }
+ .row1{
+    background-color: #6b6b83;
+ }
+ .row3{
+    background-color: #6b6b83;
+ }
